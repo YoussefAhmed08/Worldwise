@@ -1,3 +1,2 @@
-hi, thanks for ur interest
-the error appear after lec 237
-there was a lot of errors and i asked chat gpt and google bard and i reached to this error and can't solve it
+hi and welcome to you here,
+there are a bug in dark mode you can change it to light mode and enjoy :)
